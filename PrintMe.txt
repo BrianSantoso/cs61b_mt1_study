@@ -1,1 +1,2 @@
 https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Lists/DoublyLinkedList.java
+https://github.com/BrianSantoso/cs61b_mt1_study/blob/master/fa17.pdf
