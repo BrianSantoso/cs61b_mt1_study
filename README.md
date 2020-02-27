@@ -3,12 +3,7 @@
 # API Links:
 
 
-Iterable: https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html
-Collection: https://docs.oracle.com/javase/8/docs/api/java/util/List.html
-List: https://docs.oracle.com/javase/8/docs/api/java/util/List.html
-Iterator: https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html
-LinkedList: https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
-DoublyLinkedList https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Lists/DoublyLinkedList.java
+
 
 
 ![enter image description here](https://3.bp.blogspot.com/-C1o1u8il4J8/XGGvQJlvA1I/AAAAAAAACs8/MCU7ydkwW0oF63BNiVA62OkWtHwIGk0SACLcBGAs/s1600/Screenshot+%2528286%2529.png)
@@ -20,6 +15,8 @@ DoublyLinkedList https://github.com/TheAlgorithms/Java/blob/master/DataStructure
 ![enter image description here](https://introcs.cs.princeton.edu/java/11cheatsheet/images/function-examples.png)
 
 ![enter image description here](https://introcs.cs.princeton.edu/java/11cheatsheet/images/string-api.png)
+
+![enter image description here](https://github.com/BrianSantoso/cs61b_mt1_study/blob/master/91088.jpg?raw=true)
 
 
 ``` 
