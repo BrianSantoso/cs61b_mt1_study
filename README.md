@@ -19,6 +19,8 @@ DoublyLinkedList https://github.com/TheAlgorithms/Java/blob/master/DataStructure
 
 ![enter image description here](https://introcs.cs.princeton.edu/java/11cheatsheet/images/function-examples.png)
 
+![enter image description here](https://introcs.cs.princeton.edu/java/11cheatsheet/images/string-api.png)
+
 
 ``` 
 // Function to swap next and prev pointers of the given node
